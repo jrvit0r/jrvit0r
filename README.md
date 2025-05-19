@@ -59,7 +59,7 @@ Essa jornada me levou ao universo da programação e da análise de dados. Hoje,
     title="SQL Sever"
     width="30px"
     style="padding-right: 10px;"
-    src="//upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png?20100429075711"
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
 />
 <img 
     align="left"
