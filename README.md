@@ -129,6 +129,8 @@ Essa jornada me levou ao universo da programação e da análise de dados. Hoje,
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
