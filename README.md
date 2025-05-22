@@ -102,6 +102,14 @@ Essa jornada me levou ao universo da programação e da análise de dados. Hoje,
     src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
 />
 <img 
+    align="left"
+    alt="VBA"
+    title="VBA"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/374159/vba.svg"
+/>
+<img 
     align="left" 
     alt="Git" 
     title="Git"
